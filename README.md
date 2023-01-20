@@ -9,7 +9,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## My Certification
-
+# My Certification
+## DataCamp
+### Data Analyst
 
 [![DataCamp](https://user-images.githubusercontent.com/103733322/213647516-1aeb362c-06ac-4253-82d1-13086f141e4b.png)](https://www.datacamp.com/certificate/DAA0018047066423)
+
+### Data Scientist
+
+[![DataCamp](https://user-images.githubusercontent.com/103733322/213649739-a20b6dca-326d-4979-8c1b-ddd2539d1dd6.png)](https://www.datacamp.com/certificate/DSA0019011576331)
