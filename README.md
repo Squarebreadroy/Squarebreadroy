@@ -8,10 +8,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
 # My Certification
 ## IBM 
 ### Data Science
-[![CERTIFICATE_LANDING_PAGE_FVLERY5LRERE](https://user-images.githubusercontent.com/103733322/213841713-7cfc1f76-ff31-4423-947f-b590cfa5dfb1.jpg)](https://www.coursera.org/account/accomplishments/verify/FVLERY5LRERE)
+[![CERTIFICATE_LANDING_PAGE_SYNJW22TW3Z9](https://user-images.githubusercontent.com/103733322/213842842-ddf59f20-5ce6-4a1e-85c5-310584e47c0d.jpg)](https://www.coursera.org/account/accomplishments/professional-cert/SYNJW22TW3Z9)
 
 ## DataCamp
 ### Data Analyst
