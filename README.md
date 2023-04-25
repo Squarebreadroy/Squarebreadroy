@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Google 
 ### Google Advanced Analytics
-[![Screenshot 2023-04-26 072529](https://user-images.githubusercontent.com/103733322/234428968-b62f20f1-de53-4523-b82a-5752b8eb05c8.png)]
-(https://www.coursera.org/account/accomplishments/professional-cert/3A4B5DESADXZ)
+[![Google](https://user-images.githubusercontent.com/103733322/234428968-b62f20f1-de53-4523-b82a-5752b8eb05c8.png)](https://www.coursera.org/account/accomplishments/professional-cert/3A4B5DESADXZ)
 
 
 
