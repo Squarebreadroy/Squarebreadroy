@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Squarebreadroy
+- 👋 Hi, I’m Roy FONG
 - 👀 I’m interested in Math and Programming
 - 🌱 I’m currently learning Data Science 
 
