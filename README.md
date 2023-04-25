@@ -14,6 +14,11 @@ You can click the Preview link to take a look at your changes.
 ### Data Science
 [![CERTIFICATE_LANDING_PAGE_SYNJW22TW3Z9](https://user-images.githubusercontent.com/103733322/213842842-ddf59f20-5ce6-4a1e-85c5-310584e47c0d.jpg)](https://www.coursera.org/account/accomplishments/professional-cert/SYNJW22TW3Z9)
 
+## Google 
+### Google Advanced Analytics
+[!Coursera 3A4B5DESADXZ.pdf](https://github.com/Squarebreadroy/Squarebreadroy/files/11327502/Coursera.3A4B5DESADXZ.pdf)(https://www.coursera.org/account/accomplishments/professional-cert/3A4B5DESADXZ)
+
+
 ## DataCamp
 ### Data Analyst
 
